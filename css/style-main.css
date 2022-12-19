@@ -933,10 +933,10 @@ section > .container-fluid {
   background-color: rgba(235, 110, 142, 0.45);
 }
 .layer-overlay.overlay-brown::before {
-  background-color: rgba(60, 171, 111, 0.9);
+  background-color: #2596be;
 }
 .layer-overlay.overlay-brown-light::before {
-  background-color: rgba(60, 171, 111, 0.45);
+  background-color: #2596be;
 }
 .layer-overlay.overlay-yellow::before {
   background-color: rgba(255, 187, 34, 0.9);
@@ -945,10 +945,10 @@ section > .container-fluid {
   background-color: rgba(255, 187, 34, 0.45);
 }
 .layer-overlay.overlay-green::before {
-  background-color: rgba(16, 196, 92, 0.9);
+  background-color: #2596be;
 }
 .layer-overlay.overlay-green-light::before {
-  background-color: rgba(16, 196, 92, 0.45);
+  background-color: #2596be;
 }
 .half-divider .overlay-theme-color-1,
 .half-divider .overlay-theme-color-2,
